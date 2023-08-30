@@ -1,0 +1,14 @@
+h1 {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: "Courier New","Times New Roman",sans-serif;
+}
+
+body {
+    background-color: rgb(236, 212, 165);
+}
+
+* {
+    font-family: 'Times New Roman', Arial, sans-serif;
+}
